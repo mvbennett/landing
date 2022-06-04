@@ -1,0 +1,16 @@
+.btn-yours {
+  color: whitesmoke;
+  padding: 15px 25px;
+  border-radius: 4px;
+  background-color: hsl(0, 50%, 50%);
+  font-weight: bold;
+  transition: 0.5s ease;
+  -webkit-box-shadow: 5px 5px 10px 0px #999999;
+  box-shadow: 5px 5px 10px 0px #999999;
+}
+
+.btn-yours:hover {
+  background-color: hsl(0, 100%, 50%);
+  -webkit-box-shadow: 5px 5px 10px 0px #000;
+  box-shadow: 5px 5px 10px 0px #000;
+}
